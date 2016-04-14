@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8C179730A04985C304773AE0B9CFA55B9C6E6213",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8C179730A04985C304773AE0B9CFA55B9C6E6213" : 0,
+    "5BB93ED50FA2CD74FA78A3D1580B6138B4BD01A7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7ECEA2FD-C36B-4617-BFCA-5739ACC35E03",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8C179730A04985C304773AE0B9CFA55B9C6E6213" : "ShapeTransitionGit\/",
+    "5BB93ED50FA2CD74FA78A3D1580B6138B4BD01A7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ShapeTransition",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ShapeTransition.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LexLoki\/GuanabaraStageBuilder",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5BB93ED50FA2CD74FA78A3D1580B6138B4BD01A7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LexLoki\/ShapeTransition",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C179730A04985C304773AE0B9CFA55B9C6E6213"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ This class performs this custom transition between UIViewController's:
 It enlarges and (optionally) rotates a given view until it covers the screen and then present a view controller
  The shapeTransition object created needs to be used by the presented viewController to transitionBack. If you store it be careful to treat the reference as weak or set it to nil after transitioning back, to avoid retain cycles.
  
- ## Methods
+## Methods
 * `func transitionForward(view : UIView)`
 * `func transitionForward(view : UIView, completion : (()->Void)?)`
 * `func transitionBack()`
